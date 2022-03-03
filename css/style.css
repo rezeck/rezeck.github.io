@@ -4881,7 +4881,7 @@ input[type="button"].btn-block {
 }
 
 .card-title {
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.65rem;
 }
 
 .card-subtitle {
@@ -9855,7 +9855,7 @@ h5,
 
 @media (min-width: 992px) {
     #colorlib-aside {
-        width: 15%;
+        width: 24%;
     }
 }
 
@@ -9877,7 +9877,7 @@ h5,
     display: block;
     width: 100%;
     font-weight: 900;
-    font-size: 34px;
+    font-size: 32px;
 }
 
 @media (max-width: 991.98px) {
