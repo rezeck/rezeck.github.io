@@ -9855,7 +9855,7 @@ h5,
 
 @media (min-width: 992px) {
     #colorlib-aside {
-        width: 24%;
+        width: 22%;
     }
 }
 
@@ -10188,8 +10188,8 @@ h5,
 }
 
 .hero-wrap .text .img {
-    width: 320px;
-    height: 320px;
+    width: 300px;
+    height: 300px;
     margin: 0 auto;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
