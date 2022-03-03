@@ -3449,9 +3449,9 @@ input[type="button"].btn-block {
     margin: 0.125rem 0 0;
     font-size: 1rem;
     color: #212529;
-    text-align: left;
+    text-align: justify;
     list-style: none;
-    background-color: #fff;
+    background-color: rgb(240, 240, 240);
     background-clip: padding-box;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 0.25rem;
@@ -9468,6 +9468,36 @@ button.bg-dark:focus {
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+
+.truncate {
+    /* position: relative; */
+    /* width: 400px; */
+    /* need automatic multi-line height */
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    /* float: left; */
+    word-wrap: break-word;
+    padding-right: 20px;
+    text-align: justify;
+  }
+
+  .truncate.truncated {
+      white-space: initial;
+      /* width: 480px; */
+      text-align: justify;
+  }
+
+  .truncate.truncated .helpicon{
+    display: none;
+  }
+  
+  .helpicon {
+    right: 0;
+    top:10;
+    position: absolute;
+  }
 
 .text-left {
     text-align: left !important;
