@@ -103,6 +103,11 @@ h6 {
     margin-bottom: 0.5rem;
 }
 
+h6 {
+    margin-top: 1000px;
+    margin-left: -500px;
+}
+
 p {
     margin-top: 0;
     margin-bottom: 1rem;
@@ -9895,6 +9900,12 @@ h5,
 #colorlib-aside #colorlib-logo a span {
     color: #cccccc;
 }
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 10px;
+    padding: 20px;
+  }
 
 #colorlib-aside #colorlib-main-menu ul {
     margin: 0;
