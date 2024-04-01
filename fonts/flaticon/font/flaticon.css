@@ -1,12 +1,13 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 05/07/2018 04:38
+  	Creation date: 20/03/2019 02:18
   	*/
 
 @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -24,13 +25,15 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-  font-style: normal;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
 }
 
-.flaticon-car:before { content: "\f100"; }
-.flaticon-resort:before { content: "\f101"; }
-.flaticon-yatch:before { content: "\f102"; }
-.flaticon-map-of-roads:before { content: "\f103"; }
-.flaticon-compass:before { content: "\f104"; }
-.flaticon-around:before { content: "\f105"; }
-.flaticon-sailboat:before { content: "\f106"; }
+.flaticon-ideas:before { content: "\f100"; }
+.flaticon-flasks:before { content: "\f101"; }
+.flaticon-analysis:before { content: "\f102"; }
+.flaticon-ux-design:before { content: "\f103"; }
+.flaticon-web-design:before { content: "\f104"; }
+.flaticon-idea:before { content: "\f105"; }
+.flaticon-innovation:before { content: "\f106"; }
