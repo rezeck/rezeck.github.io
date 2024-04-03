@@ -8,6 +8,7 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
+	<link rel="stylesheet" href="css/modal.css">
 	<link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
 	<link rel="stylesheet" href="css/animate.css">
 
@@ -109,6 +110,8 @@
 			transform: scale(1.1);
 		}
 	</style>
+	<script>
+		window.console = window.console || function (t) { };</script>
 
 
 </head>
@@ -378,14 +381,21 @@
 							<p class="mt-4">Robot swarm control using probabilistic modeling with ROS middleware;
 								Development of simulation environment for robot swarms using Gazebo; Papers published
 								and presented at top robotics conferences (IROS, ICRA, RAL).</p>
-							<div class="text-center ftco-animate">
+							<!-- <div class="text-center ftco-animate">
 								<p><a href="https://repositorio.ufmg.br/bitstream/1843/65401/1/Tese_Doutorado_Paulo_Rezeck.pdf"
-										class="btn btn-primary py-4 px-5 zoom-effect">A stochastic approach to generate emergent
+										class="btn btn-primary py-4 px-5 zoom-effect">A stochastic approach to generate
+										emergent
 										behaviors in robotic swarms</a></p>
+							</div> -->
+							<!-- Modal -->
+							<div class="text-center ftco-animate">
+								<a href="#phd" class="btn btn-primary py-4 px-5 zoom-effect" id="m2-c">A
+									stochastic approach to generate
+									emergent behaviors in robotic swarms</a>
 							</div>
 						</div>
-
 					</div>
+
 
 					<div class="col-md-6">
 						<div class="resume-wrap ftco-animate">
@@ -399,8 +409,8 @@
 								embedded systems; Robot integration with ROS middleware.</p>
 							<div class="text-center ftco-animate">
 								<p><a href="https://repositorio.ufmg.br/bitstream/1843/60228/1/MSc_Paulo_Rezeck_final.pdf"
-										class="btn btn-primary py-4 px-5 zoom-effect">HERO: An Open Platform for Robotics Research
-										and Education</a></p>
+										class="btn btn-primary py-4 px-5 zoom-effect">HERO: An Open Platform for
+										Robotics Research and Education</a></p>
 							</div>
 						</div>
 					</div>
@@ -434,6 +444,60 @@
 				</div>
 			</div>
 
+			<div class="box">
+				<div class="modal-container" id="phd" style="--m-background: hsla(0, 0%, 0%, 0.95);">
+					<div class="modal__ ftco-animate">
+						<h1 class="text-center">A stochastic approach to generate emergent behaviors in robotic swarms
+						</h1>
+						<br>
+						<span class="position">Abstract</span>
+						<p class="mt-4">This work proposes a stochastic methodology utilizing Gibbs Random Fields
+							(GRFs) to induce diverse emergent behaviors in robotic swarms, including flocking,
+							segregation, cooperative object transportation, and pattern formation. Relying solely on
+							local information and decentralized control mechanisms, our approach enables robust and
+							scalable swarm behaviors. Through numerical simulations and real-world experiments with HeRo
+							2.0, a low-cost swarm robotic platform developed as part of this work, we demonstrate the
+							benefits of the proposed methodology, including adaptability, robustness, and resilience.
+							Overall, our stochastic approach holds promise for advancing swarm robotics by enabling the
+							generation of versatile behaviors, contributing to the field's evolution and showing
+							potential for new applications.</p>
+						<div class="text-center ftco-animate">
+							<p><a href="https://repositorio.ufmg.br/bitstream/1843/65401/1/Tese_Doutorado_Paulo_Rezeck.pdf"
+									target="_blank" class="btn btn-primary py-4 px-5 zoom-effect"><span
+										class="icon-picture_as_pdf"></span> Dissertation Document</a></p>
+						</div>
+						<span class="position">Thesis Related Publications</span>
+
+						<div class="row">
+							<div class="col-md-2 center">
+								<p><a href="https://repositorio.ufmg.br/bitstream/1843/65401/1/Tese_Doutorado_Paulo_Rezeck.pdf"
+										target="_blank" class="btn btn-primary zoom-effect"><span
+											class="icon-picture_as_pdf"></span> Download</a></p>
+							</div>
+							<div class="col-md-8">
+								<div class="text mt-3 float-right d-block">
+									<span class="position d-flex justify-content-left" style="font-size: smaller;">2021
+										IEEE
+										International
+										Conference on Robotics and Automation (ICRA)</span>
+									<h3 class="heading"><a
+											href="https://ieeexplore.ieee.org/document/9561412">Flocking-Segregative
+											Swarming Behaviors using Gibbs Random Fields</a></h3>
+									<p>Rezeck, P., Assuncao, R. M., Chaimowicz, L.</p>
+								</div>
+
+							</div>
+						</div>
+
+
+
+
+
+						<a href="#m2-c" class="link-2"></a>
+					</div>
+				</div>
+			</div>
+
 			<div class="row justify-content-center mt-5">
 				<div class="col-md-6 text-center ftco-animate">
 					<p><a href="https://github.com/rezeck/rezeck.github.io/raw/master/media/resume/cv_paulorezeck_full.pdf"
@@ -444,6 +508,8 @@
 			<br>
 
 	</section>
+
+
 
 
 
@@ -1106,7 +1172,9 @@
 							<span class="icon-globe"></span>
 						</div>
 						<h3 class="mb-4">Download Resume</h3>
-						<p><a href="https://github.com/rezeck/rezeck.github.io/raw/master/media/resume/cv_paulorezeck_full.pdf">resume</a></p>
+						<p><a
+								href="https://github.com/rezeck/rezeck.github.io/raw/master/media/resume/cv_paulorezeck_full.pdf">resume</a>
+						</p>
 					</div>
 				</div>
 
@@ -1122,7 +1190,8 @@
 					<br>
 					<ul class="ftco-footer-social list-unstyled d-flex justify-content-center align-items-center mb-0">
 						<li class="ftco-animate normal-txt">Find me on </li>
-						<li class="ftco-animate"><a href="https://www.youtube.com/channel/UCSHNLmEXHrdMqwUDKlJhZMA"><span
+						<li class="ftco-animate"><a
+								href="https://www.youtube.com/channel/UCSHNLmEXHrdMqwUDKlJhZMA"><span
 									class="icon-youtube"></span></a></li>
 						<li class="ftco-animate"><a href="https://www.linkedin.com/in/rezeck/"><span
 									class="icon-linkedin"></span></a></li>
