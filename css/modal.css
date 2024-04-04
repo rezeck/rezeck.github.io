@@ -16,7 +16,7 @@
 }
 
 html {
-  font-size: 50%;
+  font-size: 48%;
 }
 
 /* body {
@@ -55,13 +55,13 @@ button::-moz-focus-inner {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 30vh;
   padding: 0 4rem 2rem;
   overflow-y: auto; /* Enable vertical scrolling */
 }
 
 .box:not(:first-child) {
-  height: 45rem;
+  height: 2rem;
 }
 
 .box__title {
