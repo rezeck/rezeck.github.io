@@ -1,6 +1,22 @@
 {
   "publications": [
     {
+      "title": "Photo-Realistic and Labeled Synthetic UAV Flight Data Generation Using ROS and Gazebo",
+      "year": "2024",
+      "venue": "Latin American Robotics Symposium (LARS)",
+      "authors": "Silva, Lucas, Ferreira, Juliana Quintiliano, Rezeck, Paulo, Silva, Michel Melo, Gomes, Thiago L",
+      "link": "https://ieeexplore.ieee.org/document/10160193",
+      "image": "media/publications/photo_realistic_and_labeled_synthetic_uav_flight_data_generation_using_ros_and_gazebo/image0.gif"
+    },
+    {
+      "title": "Replanejamento de Movimento Baseado em Visão da Tarefa Realizada por um Manipulador Robótico em uma Célula de Inspeção de Peças Automotivas",
+      "year": "2023",
+      "venue": "Simpósio Brasileiro de Automação Inteligente-SBAI",
+      "authors": "Leão, Lucca Garcia, Freitas, Gustavo Medeiros, Rezeck, Paulo, Moreira, Luiz Fernando Etrusco, Fernandes, Antônio Otávio",
+      "link": "https://doi.org/10.20906/SBAI-SBSE-2023/4003",
+      "image": "media/publications/replanejamento_de_movimento_baseado_em_visao_da_tarefa_realizada_por_um_manipulador_robotico_em_uma_celula_de_inspecao_de_pecas_automotivas/image0.gif"
+    },
+    {
       "title": "Hero 2.0: A low-cost robot for swarm robotics research",
       "year": "2023",
       "venue": "Autonomous Robots",
