@@ -1,0 +1,172 @@
+{
+  "publications": [
+    {
+      "title": "Hero 2.0: A low-cost robot for swarm robotics research",
+      "year": "2023",
+      "venue": "Autonomous Robots",
+      "authors": "P Rezeck, H Azpúrua, MFS Correa, L Chaimowicz",
+      "link": "https://verlab.github.io/hero_common/",
+      "image": "media/publications/hero2.0_a_low_cost_robot_for_swarm_robotics_research/image0.gif"
+    },
+    {
+      "title": "A DRL Approach for Object Transportation in Complex Environments",
+      "year": "2022",
+      "venue": "Latin American Robotics Symposium (LARS)",
+      "authors": "A. R. Da Silva, P. A. F. Rezeck, G. S. Luz, T. R. Alves, D. G. Macharet, L. Chaimowicz",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9995823",
+      "image": "media/publications/a_drl__approach_for_object_transportation_in_complex_environments/image0.gif"
+    },
+    {
+      "title": "Chemistry-Inspired Pattern Formation with Robotic Swarms",
+      "year": "2022",
+      "venue": "IEEE Robotics and Automation Letters",
+      "authors": "P Rezeck and L Chaimowicz",
+      "link": "https://rezeck.github.io/chemistry-inspired-swarm/",
+      "image": "media/publications/chemistry_inspired_pattern_formation_with_robotic_swarms/image0.gif"
+    },
+    {
+      "title": "An Integrated Solution for an Autonomous Drone Racing in Indoor Environments",
+      "year": "2021",
+      "venue": "Journal of Intelligent Service Robotics",
+      "authors": "Rezende, A. M. C., Miranda, V. R. F, Rezeck, P. A. F., Azpurua, H., Santos, E. R. S., Goncalves, V. M., Macharet, D. G., Freitas, G. M.",
+      "link": "https://link.springer.com/article/10.1007/s11370-021-00385-4",
+      "image": "media/publications/an_integrated_solution_for_an_autonomous_drone_racing_in_indoor_environments/image0.gif"
+    },
+    {
+      "title": "Cooperative Localization and Mapping with Robotic Swarms",
+      "year": "2021",
+      "venue": "Journal of Intelligent and Robotic Systems",
+      "authors": "Pires, A. G., Rezeck, P., Chaves, R. A., Machret, D. G., Chaimowicz, L.",
+      "link": "https://link.springer.com/article/10.1007/s10846-021-01397-z",
+      "image": "media/publications/cooperative_localization_and_mapping_with_robotic_swarms/image0.gif"
+    },
+    {
+      "title": "Cooperative Object Transportation using Gibbs Random Fields",
+      "year": "2021",
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "authors": "Rezeck, P., Assuncao, R. M., Chaimowicz, L.",
+      "link": "https://rezeck.github.io/grf_transport/",
+      "image": "media/publications/cooperative_object_transportation_using_gibbs_random_fields/image0.gif"
+    },
+    {
+      "title": "Flocking-Segregative Swarming Behaviors using Gibbs Random Fields",
+      "year": "2021",
+      "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+      "authors": "Rezeck, P., Assuncao, R. M., Chaimowicz, L.",
+      "link": "https://ieeexplore.ieee.org/document/9561412",
+      "image": "media/publications/flocking_segregative_swarming_behaviors_using_gibbs_random_fields/image0.gif"
+    },
+    {
+      "title": "Spatial Segregative Behaviors in Robotic Swarms Using Differential Potentials",
+      "year": "2020",
+      "venue": "Journal Swarm Intelligence",
+      "authors": "Santos, V. G., Pires, A. G., Alitappeh, R. J., Rezeck, P., Pimenta, L. C. A., Macharet, D. G., Chaimowicz, L.",
+      "link": "https://www.springerprofessional.de/en/spatial-segregative-behaviors-in-robotic-swarms-using-differenti/18143644",
+      "image": "media/publications/spatial_segregative_behaviors_in_robotic_swarms_using_differential_potentials/image0.png"
+    },
+    {
+      "title": "Localization Using Ultra Wideband and IEEE 802.15.4 Radios with Nonlinear Bayesian Filters: a Comparative Study",
+      "year": "2020",
+      "venue": "Journal of Intelligent and Robotic Systems",
+      "authors": "Santos, E. R. S., Azpurua, H., Rezeck, P., Correa, M. F. S., Vieira, M. A. M., Freitas, G. M., Macharet, D. G.",
+      "link": "https://dl.acm.org/doi/abs/10.1007/s10846-019-01126-7",
+      "image": "media/publications/localization_using_ultra_wideband_and_IEEE_802_15_4_radios_with_nonlinear_bayesian_filters_a_comparative_study/image0.gif"
+    },
+    {
+      "title": "On the Evaluation of Force Feedback Augmented Teleoperation of Excavator-like Mobile Manipulators",
+      "year": "2020",
+      "venue": "International Conference on Automation Science and Engineering (CASE)",
+      "authors": "Carvalho, L., Rezeck, P., Lima, M., Pinto, L., Freitas, G., Nascimento, E., Macharet, D., Chaimowicz, L., Pessin, G., Campos, M.",
+      "link": "https://ieeexplore.ieee.org/document/9217029",
+      "image": "media/publications/on_the_evaluation_of_force_feedback_augmented_teleoperation_of_excavator_like_mobile_manipulators/image0.gif"
+    },
+    {
+      "title": "SwarMap: Occupancy Grid Mapping with a Robotic Swarm",
+      "year": "2019",
+      "venue": "IEEE International Conference on Advanced Robotics (ICAR)",
+      "authors": "Chaves, R., Rezeck, P., Chaimowicz, L.",
+      "link": "https://ieeexplore.ieee.org/document/8981640",
+      "image": "media/publications/swarmap_occupancy_grid_mapping_with_a_robotic_swarm/image0.png"
+    },
+    {
+      "title": "Cooperative Digital Magnetic‐elevation Maps by small Autonomous Aerial Robots",
+      "year": "2019",
+      "venue": "Journal of Field Robotics",
+      "authors": "Azpúrua, H., Potje, G. A., Rezeck, P. A., Freitas, G. M., Uzeda Garcia, L. G., Nascimento, E. R., ... & Campos, M. F.",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21909",
+      "image": "media/publications/cooperative_digital_magnetic_elevation_maps_by_small_autonomous_aerial_robots/image0.gif"
+    },
+    {
+      "title": "Realimentaçao de Força para Teleoperaçao de Escavadeiras",
+      "year": "2019",
+      "venue": "14º Simpósio Brasileiro de Automação Inteligente",
+      "authors": "Lima, M., Cid, A., Cadar, F., Pinto, L., Rezeck, P., Grabe, T., Freitas, G., Macharet, D., Pessin, G., Chaimowicz, L., Campos, M.",
+      "link": "https://proceedings.science/sbai-2019/papers/realimentacao-de-forca-para-teleoperacao-de-escavadeiras?lang=en",
+      "image": "media/publications/realimentacao_de_forca_para_teleoperacao_de_escavadeiras/image0.gif"
+    },
+    {
+      "title": "Global Localization of Mobile Robots Using Local Position Estimation in a Geo Tagged Wireless Node Sensor Network",
+      "year": "2018",
+      "venue": "IEEE Latin American Robotics Symposium (LARS)",
+      "authors": "Santos, E., Azpurua, H., Rezeck, P., Corrêa, M., Freitas, G., & Macharet, D.",
+      "link": "https://ieeexplore.ieee.org/document/8588524",
+      "image": "media/publications/global_localization_of_mobile_robots_using_local_position_estimation_in_a_geo_tagged_wireless_node_sensor_network/image0.jpg"
+    },
+    {
+      "title": "Framework for Haptic Teleoperation of a Remote Robotic Arm Device",
+      "year": "2018",
+      "venue": "IEEE Latin American Robotics Symposium (LARS)",
+      "authors": "Rezeck, P., Frade, B., Soares, J., Pinto, L., Cadar, F., Azpurua, H., ... & Campos, M. F.",
+      "link": "https://ieeexplore.ieee.org/document/8588546",
+      "image": "media/publications/framework_for_haptic_teleoperation_of_a_remote_robotic_arm_device/image0.gif"
+    },
+    {
+      "title": "An Immersion Enhancing Robotic Head-Like Device for Teleoperation",
+      "year": "2018",
+      "venue": "IEEE Latin American Robotics Symposium (LARS)",
+      "authors": "Rezeck, P., Cadar, F., Soares, J., Frade, B., Pinto, L., Azpurua, H., ... & Campos, M. F. M.",
+      "link": "https://ieeexplore.ieee.org/document/8588545",
+      "image": "media/publications/an_immersion_enhancing_robotic_head_like_device_for_teleoperation/image0.gif"
+    },
+    {
+      "title": "HeRo: An Open Platform for Robotics Research and Education",
+      "year": "2018",
+      "venue": "IEEE Latin American Robotics Symposium (LARS)",
+      "authors": "Rezeck, P. A., Azpurua, H., & Chaimowicz, L.",
+      "link": "https://verlab.github.io/hero_common/",
+      "image": "media/publications/heRo_an_open_platform_for_robotics_research_and_education/image0.gif"
+    },
+    {
+      "title": "Autonomous Aeromagnetic Surveys Using a Fluxgate Magnetometer",
+      "year": "2016",
+      "venue": "Journal Sensors",
+      "authors": "Macharet, D., Perez-Imaz, H., Rezeck, P., Potje, G., Benyosef, L., Wiermann, A., ... & Campos, M.",
+      "link": "https://www.mdpi.com/1424-8220/16/12/2169",
+      "image": "media/publications/autonomous_aeromagnetic_surveys_using_a_fluxgate_magnetometer/image0.gif"
+    },
+    {
+      "title": "Segregation of Heterogeneous Robotics Swarms via Convex Optimization",
+      "year": "2016",
+      "venue": "ASME Dynamic Systems and Control Conference (DSCC)",
+      "authors": "Edwards, V., Rezeck, P., Chaimowicz, L., & Hsieh, M. A.",
+      "link": "https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2016/50695/V001T03A001/228514",
+      "image": "media/publications/segregation_of_heterogeneous_robotics_swarms_via_Convex_optimization/image0.gif"
+    },
+    {
+      "title": "Multi-robot 3D Coverage Path Planning for First Responders teams",
+      "year": "2016",
+      "venue": "IEEE International Conference on Automation Science and Engineering (CASE)",
+      "authors": "Perez-Imaz, H. I., Rezeck, P. A., Macharet, D. G., & Campos, M. F.",
+      "link": "https://ieeexplore.ieee.org/document/7743569",
+      "image": "media/publications/multi_robot_3D_coverage_path_planning_for_first_responders_teams/image0.gif"
+    },
+    {
+      "title": "On the Development of a Robotic System for Telepresence",
+      "year": "2013",
+      "venue": "IEEE Latin American Robotics Symposium (LARS)",
+      "authors": "Perez-Imaz, H. I., Rezeck, P. A., Macharet, D. G., & Campos, M. F.",
+      "link": "https://ieeexplore.ieee.org/document/6693262",
+      "image": "media/publications/on_the_development_of_a_robotic_system_for_telepresence/image0.gif"
+    }
+  ]
+} 
